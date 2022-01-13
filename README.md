@@ -51,5 +51,15 @@ The webpage results as per different criteria as shown below:
 
 ![UFO Sightings](https://github.com/Sheetaltkr/UFOs/blob/main/static/images/ufo_shape.png)
 
-## Summary: 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Summary:
+**Drawback**
+
+- The webpage is case-sensitive and does not return results if the filter criteria text case does not match to that of the data stored in data file.
+- Date textbox does not have calendar popup to select dates. User needs to manually enter the date in specitic format.
+- No click button present to indicate the action for applying the filter.
+
+**Recommendations**
+- Drop down lists could be added for filter textboxes
+- The webpage filter mechanism should be case-insensitive
+- There could be two date input boxes to select a range of dates 
+
