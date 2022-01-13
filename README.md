@@ -3,8 +3,6 @@
 ## Overview of Project:
 
 ### Purpose
-Explain the purpose of this analysis.
-
 - Create a webpage and dynamic table to display UFO sightings information and an article on town Mcminnville, Oregon using HTML and Javascript. The information consists of countries, cities, states, type of sighting
 - Enable data manipulation on the webpage using data filters
 - Add multiple filter criteria using city, state, country, and shape table filters.
