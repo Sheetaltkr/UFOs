@@ -19,6 +19,37 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 ![UFO Sightings](https://github.com/Sheetaltkr/UFOs/blob/main/static/images/ufo_main.png)
 
+The website displays the article "UFO Sightings: Fact or Fancy?" which talks about UFO sightings and Aliens. The website also displays UFO sightings data in tabular form below the article. This data can be filtered using the criteria present on the left side of the table. The criteria includes:
+- Date
+- City
+- State
+- Country
+- Shape
+
+User needs to enter the filter criteria in the textboxes below the labels and press enter. If the sightings table has the data as per the filter, the corresponding data would be displayed in the table.
+User can select multiple criteria at the same time.
+
+The webpage results as per different criteria as shown below:
+
+1) Date filter: "1/2/2010"
+
+![UFO Sightings](https://github.com/Sheetaltkr/UFOs/blob/main/static/images/ufo_date.png)
+
+3) City filter: "phoenix"
+
+![UFO Sightings](https://github.com/Sheetaltkr/UFOs/blob/main/static/images/ufo_city.png)
+
+5) State filter: "co"
+
+![UFO Sightings](https://github.com/Sheetaltkr/UFOs/blob/main/static/images/ufo_state.png)
+
+7) Country filter: "ca"
+
+![UFO Sightings](https://github.com/Sheetaltkr/UFOs/blob/main/static/images/ufo_country.png)
+
+9) Shape filter: "triangle"
+
+![UFO Sightings](https://github.com/Sheetaltkr/UFOs/blob/main/static/images/ufo_shape.png)
 
 ## Summary: 
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
